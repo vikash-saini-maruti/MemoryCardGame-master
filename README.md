@@ -1,8 +1,8 @@
 # MemoryCardGame-master
-
+----------------------------------------
 ## Introduction
 This is a Python-based memory card game implemented using the graphics library. The game requires the player to match pairs of cards with identical symbols. It features different game modes (Images Mode or Numbers Mode) and difficulty levels (Easy, Normal, and Hard). The player earns keys by successfully matching pairs, aiming to collect all keys within the least moves and time possible.
-
+----------------------------------------
 ## Features
 - **Game Modes**: Players can choose between Images Mode or Numbers Mode.
 - **Difficulty Levels**: Three difficulty levels are available: Easy, Normal, and Hard.
@@ -11,13 +11,13 @@ This is a Python-based memory card game implemented using the graphics library. 
 - **Pause Functionality**: Players can pause the game at any time and resume later.
 - **Scoreboard**: After completing the game, players can view their performance and rankings.
 - **Exit Button**: Allows players to exit the game at any time.
-
+----------------------------------------
 ## Requirements
 - Python (for running the script)
 - `graphics`, `random`, `time`, `platform`, `pygame`, `tkinter` libraries
 - Sound files in `mp3` format for background music and sound effects
 - Image files in `png` format for graphics
-
+----------------------------------------
 ## File Structure
 - **`main.py`**: Python script containing the game implementation.
 - **`bg.png`**: Background image file.
@@ -33,7 +33,7 @@ This is a Python-based memory card game implemented using the graphics library. 
 - **`logo.png`**: Image file for game logo.
 - **`pause_button.png`**: Image file for pause button.
 - **`sound.png`**: Image file for sound control button.
-
+----------------------------------------
 ## Installation
 1. Make sure you have Python installed on your system.
 2. Install the required libraries using pip:
@@ -42,7 +42,7 @@ This is a Python-based memory card game implemented using the graphics library. 
 5. Run the script using the command:
 
 
-
+----------------------------------------
 
 ## Technical Details
 
